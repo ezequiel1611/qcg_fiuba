@@ -45,9 +45,9 @@
   "qtcad_options": {
     "adaptive": true,
     "adaptive_mesh_scale": 0.001,
-    "output_dir": "/Users/leubiedo/Documents/QuantumCircuits/tutorials/output/example_transmon",
-    "geo_filepath": "/Users/leubiedo/Documents/QuantumCircuits/tutorials/output/example_transmon/example_transmon.xao",
-    "mesh_filepath": "/Users/leubiedo/Documents/QuantumCircuits/tutorials/output/example_transmon/example_transmon.msh4",
+    "output_dir": "/Users/leubiedo/Documents/QuantumCircuits/tutorials/qcg_fiuba/transmon/output/example_transmon",
+    "geo_filepath": "/Users/leubiedo/Documents/QuantumCircuits/tutorials/qcg_fiuba/transmon/output/example_transmon/example_transmon.xao",
+    "mesh_filepath": "/Users/leubiedo/Documents/QuantumCircuits/tutorials/qcg_fiuba/transmon/output/example_transmon/example_transmon.msh4",
     "mesh_scale": 0.001,
     "make_subdir": false,
     "capacitance": {
@@ -66,6 +66,6 @@
     "buffer_distance": "300um"
   },
   "cap_refined_mesh_file": null,
-  "eig_refined_mesh_file": "/Users/leubiedo/Documents/QuantumCircuits/tutorials/output/example_transmon/qtcad-refined-mesh.msh4",
-  "eig_field_file": "/Users/leubiedo/Documents/QuantumCircuits/tutorials/output/example_transmon/qtcad-fields.vtu"
+  "eig_refined_mesh_file": "/Users/leubiedo/Documents/QuantumCircuits/tutorials/qcg_fiuba/transmon/output/example_transmon/qtcad-refined-mesh.msh4",
+  "eig_field_file": "/Users/leubiedo/Documents/QuantumCircuits/tutorials/qcg_fiuba/transmon/output/example_transmon/qtcad-fields.vtu"
 }
